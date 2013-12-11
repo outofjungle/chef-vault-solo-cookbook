@@ -1,6 +1,6 @@
 require_relative '../spec_helper'
 
-describe 'concept::default' do
+describe 'chef-solo-vault::default' do
   let(:secrets) do
     {
       'star_wars' => "Vader is Luke's dad",

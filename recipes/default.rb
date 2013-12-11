@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: concept
+# Cookbook Name:: chef-solo-vault
 # Recipe:: default
 #
 # Copyright (C) 2013 YOUR_NAME
