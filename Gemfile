@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'berkshelf'
+gem 'berkshelf', '>= 2.0.10'
 group :test do
   gem 'chef'
   gem 'chefspec'
   gem 'foodcritic'
-  gem 'rspec'
   gem 'simplecov'
   gem 'httparty'
+  gem 'rspec', '>= 2.14.1'
   gem 'rake'
   gem 'reek'
   gem 'yarjuf'
