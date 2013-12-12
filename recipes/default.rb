@@ -8,6 +8,6 @@
 #
 
 chef_gem 'chef-vault-solo'
-require 'chef-vault-solo/patch'
+require 'chef-vault/patch'
 
 secrets = ChefVault::Item.load('vagrant', 'secrets')
