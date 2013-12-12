@@ -1,3 +1,3 @@
 require 'chefspec'
 require 'chefspec/berkshelf'
-require 'chef-vault'
+require 'chef-vault-solo/patch'
