@@ -1,4 +1,4 @@
-# concept cookbook
+# chef-vault-solo-cookbook cookbook
 
 # Requirements
 

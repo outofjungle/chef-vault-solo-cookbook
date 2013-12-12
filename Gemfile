@@ -13,6 +13,7 @@ group :test do
   gem 'yarjuf'
   gem 'chef-vault'
   gem 'knife-info'
+  gem 'chef-vault-solo'
 end
 
 gem 'test-kitchen'
