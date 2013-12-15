@@ -4,6 +4,10 @@
 [![Dependency Status](https://gemnasium.com/outofjungle/chef-vault-solo-cookbook.png)](https://gemnasium.com/outofjungle/chef-vault-solo-cookbook)
 [![Code Climate](https://codeclimate.com/github/outofjungle/chef-vault-solo-cookbook.png)](https://codeclimate.com/github/outofjungle/chef-vault-solo-cookbook)
 
+# Description
+
+Example cookbook that uses `chef-vault-solo` gem to monkey patch `chef-vault` calls to local databag.
+
 # Requirements
 
   * ruby 1.9.3
